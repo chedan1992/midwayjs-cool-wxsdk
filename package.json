@@ -1,7 +1,7 @@
 {
     "name": "midwayjs-cool-wxsdk",
     "pluginName": "微信api_SDK",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "微信api对接",
     "author": "xnr",
     "contact": "chedan1992@sina.com",
