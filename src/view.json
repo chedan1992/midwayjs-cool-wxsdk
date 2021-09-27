@@ -1,0 +1,33 @@
+[{
+    "label": "appid",
+    "prop": "appid",
+    "component": {
+        "name": "el-input",
+        "attrs": {
+            "placeholder": "微信AppID"
+        }
+    },
+    "props": {
+        "label-width": "100px"
+    },
+    "rules": {
+        "required": true,
+        "message": "值不能为空"
+    }
+}, {
+    "label": "AppSecret",
+    "prop": "appSecret",
+    "component": {
+        "name": "el-input",
+        "attrs": {
+            "placeholder": "微信appSecret"
+        }
+    },
+    "props": {
+        "label-width": "100px"
+    },
+    "rules": {
+        "required": true,
+        "message": "值不能为空"
+    }
+}]
